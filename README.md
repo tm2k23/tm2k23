@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Still Learning</h1>
+<h1 align="center"> Hi 👋, I'm tm2k23</h1>
 <p align="center">
     <a href="https://github.com/tm2k23"><img src="forkit.gif "/></a> 
 </p>
