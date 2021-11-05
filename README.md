@@ -4,7 +4,7 @@
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>I am Still Learning
+  <samp>I am a Full Stack Developer
 </samp><br>
 </p>
 
