@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm tm2k23</h1>
+<h1 align="center"> Hi 👋, I'm Tejas !</h1>
 <p align="center">
     <a href="https://github.com/tm2k23"><img src="forkit.gif "/></a> 
 </p>
@@ -9,14 +9,14 @@
 </p>
 
 
-<!-- <h2 align="center">Reach out to me on </h2>
+<h2 align="center">Reach out to me on </h2>
 
 <div align="center">
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tm2k23) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/) 
-</div> -->
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tejas2k18/)
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tejas_s_mishra/) 
+</div>
 <h2 align="center"> 🔭 Technology Stack</h2>
 
 <p align="center">
