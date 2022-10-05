@@ -4,7 +4,12 @@
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>An enthusiastic and motivated Student in the field of Computer Science with a keen interest in Full Stack Development. I love to build software that makes an impact on my organization and the world.</samp><samp> I enjoy solving complex problems and taking on challenging tasks. I am strong in applying Data Structures and Algorithms to efficiently solve any problem.</samp><samp> I am a quick learner and open to working in any technology. Detailed Oriented, Consistency and Hard Work are some of my top qualities. I believe consistent practice brings excellence. </samp>
+  <samp>An enthusiastic and motivated Student in the field of Computer Science with a keen interest in Full Stack Development. I love to build software that makes an impact on my organization and the world.</samp>
+    
+    <samp> I enjoy solving complex problems and taking on challenging tasks. I am strong in applying Data Structures and Algorithms to efficiently solve any problem.</samp>
+    
+    <samp> I am a quick learner and open to working in any technology. Detailed Oriented, Consistency and Hard Work are some of my top qualities. I believe consistent practice brings excellence. </samp>
+    
 <samp>You can find me on: tejasmishra.in</samp>
 <br>
 </p>
