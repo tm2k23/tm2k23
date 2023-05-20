@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tejasmishra.in/">
-    <img src="https://i.ibb.co/g9qb3mt/1667889645008-01.jpg" alt="MasterHead">
+    <img src="https://i.ibb.co/DWJZRbk/1667889645008-02.jpg" alt="MasterHead">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Tejas</h1>
